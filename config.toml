@@ -1,3 +1,4 @@
+theme = "terminimal"
 base_url = "https://meaisin.github.io"
 title = "Meaisin"
 
@@ -27,7 +28,7 @@ accent_color = "green"
 background_color = "blue"
 
 # The logo text - defaults to "Terminimal theme"
-logo_text = "Terminimal theme"
+logo_text = "Meaisin"
 
 # The logo link - defaults to base_url.
 #logo_home_link = "/take/me/away!"
@@ -54,7 +55,7 @@ menu_items = [
     {name = "about me", url = "$BASE_URL/about"},
 
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/pawroman/zola-theme-terminimal", newtab = true},
+    {name = "github", url = "https://github.com/meaisin", newtab = true},
 ]
 
 # Whether to show links to earlier and later posts
