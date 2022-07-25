@@ -1,5 +1,6 @@
 theme = "terminimal"
-base_url = "https://meaisin.github.io"
+
+base_url = "https://main--relaxed-starship-1a60de.netlify.app/"
 title = "Meaisin"
 
 # Sass compilation is required
